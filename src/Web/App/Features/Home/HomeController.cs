@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNet.Mvc;
 
-namespace AspNet5.Beta6.Examples.FeatureFolders.App.Controllers
+namespace AspNet5.Beta6.Examples.FeatureFolders.App.Features.Home
 {
     public class HomeController : Controller
     {

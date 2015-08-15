@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using AspNet5.Beta6.Examples.FeatureFolders.App.Controllers;
+using AspNet5.Beta6.Examples.FeatureFolders.App.Features.Home;
 using AspNet5.Beta6.Examples.FeatureFolders.App.Features.Manage;
 using Microsoft.AspNet.Authorization;
 using Microsoft.AspNet.Identity;
